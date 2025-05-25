@@ -29,3 +29,5 @@ try:
     time.sleep(5)
 finally:
     browser.quit()
+
+# Тест
