@@ -30,4 +30,5 @@ try:
 finally:
     browser.quit()
 
-# Тест
+# Тест 2
+# Тест 3
